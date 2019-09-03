@@ -22,4 +22,4 @@ Among the files above:
 - file 'mykmeans.m' is the main file to realize K-means clustering algorithm;
 - the rest 8 *.m are called functions by mykmeans.m
 
-For more detailed information, refer to article [算法 _k-means聚类]().
+For more detailed information, refer to article [算法 _ k-means聚类](https://github.com/chentianyangWHU/KmeansCluster/blob/master/%E7%AE%97%E6%B3%95%20_%20k-means%E8%81%9A%E7%B1%BB.md).
