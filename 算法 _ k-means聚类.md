@@ -1,6 +1,6 @@
 ﻿# <center><font face="宋体"> 算法|k-means聚类</font></center>
 
-*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link]()</center>*
+*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link](https://github.com/chentianyangWHU/KmeansCluster)</center>*
 
 **概要：** <font face="宋体" size = 3> 本文将要介绍机器学习的一种常见算法：k-means聚类。聚类属于无监督学习，相比于分类，聚类不依赖预定义的类和类标号的训练实例。由于k-means聚类比较简单，所以我主要介绍在写相关代码时的体验。代码仍是用MATLAB写的。</font>
 
