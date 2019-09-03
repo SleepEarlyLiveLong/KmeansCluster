@@ -1,4 +1,4 @@
-﻿# <center><font face="宋体"> 算法|k-means聚类</font></center>
+# <center><font face="宋体"> 算法|k-means聚类</font></center>
 
 *<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link](https://github.com/chentianyangWHU/KmeansCluster)</center>*
 
