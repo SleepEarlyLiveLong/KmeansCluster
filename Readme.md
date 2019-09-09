@@ -14,7 +14,6 @@ KmeansCluster
         |-- mydrawkmeans.m
         |-- myerrcal.m
         |-- mynumstatistic.m
-    |-- LICENSE
     |-- Readme.md
     |-- kmeastest.m
     |-- 算法 _ k-means聚类.md
@@ -22,7 +21,6 @@ KmeansCluster
 Among the files above:
 - file 'mykmeans.m' is the main file to realize K-means clustering algorithm;
 - the rest 8 XXX.m in dict 'src' are called functions by mykmeans.m;
-- file 'LICENSE' is the license file produced by github;
 - file 'kmeastest.m' is the test file to examine the performance of the code—— 9 matlab files in folder 'src';
 - file '算法_k-means聚类.md' is a detailed introduction document for this project. 
 
